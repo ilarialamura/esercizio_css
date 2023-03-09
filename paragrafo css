@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+
+<p>Creare un paragrafo il cui testo deve essere grande 28 punti di color magenta, con sfondo giallo.</p>
+<style>
+    p {color: magenta;
+background-color: yellow;
+font-size: 28pt;
+}
+</style>
+<h2>E un altro paragrafo allineato al centro</h2>
+<style>
+    h2 {text-align: center;
+    }
+</style>
+<h3>Titolo subito sotto di color verdescuro con un carattere a vostra scelta</h3>
+<style>
+    h3 {color: darkgreen;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+</style>
+
+</body>
+</head>
+</html>
